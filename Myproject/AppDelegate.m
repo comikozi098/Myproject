@@ -14,7 +14,7 @@
 {
     // Override point for customization after application launch.
 
-    // comment here from Jeremy!
+    OOPS I BROKE IT
 
     return YES;
 }
